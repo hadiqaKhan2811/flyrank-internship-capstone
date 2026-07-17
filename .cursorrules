@@ -113,3 +113,9 @@ Whenever introducing a new concept:
 - Explain where it is used.
 - Give one simple example.
 - Then continue with coding.
+
+## Additional Project Rules
+
+- All forms must use controlled components. Do not use uncontrolled inputs.
+- Every form must include accessible labels and appropriate ARIA attributes for validation.
+- Every feature that contains validation must include automated tests before completion.
